@@ -38,6 +38,19 @@
 
 インストールコマンドは `gem install hoge` です
 
+~~消さないで！~~
 
+~~~ruby
+class Hoge
+ def hoge
+　 print 'hoge'
+ end
+end
+~~~
+
+|No|リーダー|サブリーダー|
+|--:|:--|:--|
+|1|FK|MM|
+|2|FK|CH|
 
 
