@@ -17,5 +17,15 @@
 > お世話になります。xxxです。
 > 
 > ご連絡いただいた、バグの件ですが、仕様です。
+>> お世話になります。 yyyです。
+>> 
+>> あの新機能バグってるっすね
+
+    # Space
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
 
 
